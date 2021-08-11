@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iwai/Projects/myindi_driver/indi_mycustomdriver.cpp
+config.h
+/home/iwai/Projects/myindi_driver/config.h
+indi_mycustomdriver.h
+/home/iwai/Projects/myindi_driver/indi_mycustomdriver.h
+stdio.h
+-
+
+/home/iwai/Projects/myindi_driver/indi_mycustomdriver.h
+libindi/defaultdevice.h
+/home/iwai/Projects/myindi_driver/libindi/defaultdevice.h
+
+config.h
+
